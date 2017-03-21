@@ -1,0 +1,9 @@
+.day {
+  background-color: none;
+  color: black;
+}
+
+.night{
+  background-color: gray;
+  color: white;
+}
